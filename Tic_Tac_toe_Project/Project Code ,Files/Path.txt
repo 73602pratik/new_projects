@@ -1,0 +1,16 @@
+step1 = input
+step2 = welcome user
+step3 = variable 
+step4 = board
+step5 = computer res
+step6 = code
+step7 = when does game ends
+
+Task 
+1. display the board
+2. variables and mark user input
+3. computer will make move
+4. keep playing
+5. computer should know when game ends
+
+Design the board
